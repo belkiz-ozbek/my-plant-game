@@ -1,7 +1,7 @@
 "use client"
 import { useEffect } from 'react';
 import { useRouter } from 'next/router'
-import Game from '../components/Game';
+import Game from '../components/game';
 import LoginForm from "@/app/components/LoginForm";
 
 const Page: React.FC = () => {
