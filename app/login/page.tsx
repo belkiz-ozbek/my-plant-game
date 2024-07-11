@@ -10,6 +10,7 @@ const Page: React.FC = () => {
         <div>
             <Signup />
             <LoginForm />
+
         </div>
     );
 };

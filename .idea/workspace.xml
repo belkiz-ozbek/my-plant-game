@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e16f1cd3-ce3d-4d29-949a-97191d92ff6a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/game/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img-4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img-5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img-6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/img-7.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/Game.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/game.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/LoginForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/LoginForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/game.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/Game.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/home/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/home/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/login/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/login/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,10 +63,11 @@
       <recent name="$PROJECT_DIR$/app/pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$/app/components" />
+      <recent name="$PROJECT_DIR$/app/game" />
+      <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/app/Components" />
-      <recent name="$PROJECT_DIR$/app/pages" />
     </key>
   </component>
   <component name="RunManager">
@@ -181,7 +190,7 @@
       <workItem from="1720682114022" duration="18000" />
       <workItem from="1720682167450" duration="43000" />
       <workItem from="1720682271452" duration="1160000" />
-      <workItem from="1720684707678" duration="7578000" />
+      <workItem from="1720684707678" duration="15364000" />
     </task>
     <servers />
   </component>
